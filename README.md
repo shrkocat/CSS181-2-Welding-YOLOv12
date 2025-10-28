@@ -162,3 +162,5 @@ All dependencies are installed automatically in the notebook setup cells. Key in
 # Upgrade Ultralytics
 !pip install -U ultralytics==8.3.176
 ```
+
+**Get the dataset here:** https://drive.google.com/drive/folders/1zdEEtExt9etOzJGcaz9hV5lINFtqiDVY?usp=sharing
